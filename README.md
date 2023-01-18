@@ -1,58 +1,45 @@
-## Hello, I'm [Mohaiminur!](https://github.com/nixonok/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello, I'm [Arindom Das!](https://github.com/nixonok/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&height=30&lines=Software+Engineer;Game+Developer;Certified+Scrum+Master;Book+Worm;Proud+Bangladeshi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&height=30&lines=Software+Engineer;Game+Developer)](https://git.io/typing-svg)
+### Good to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=arindomdas.ad&style=flat-square&color=0088cc)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nixonok)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/NixonOk/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_nixonok)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nixonok1)
+---
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arindom-ad)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/arindamdas.ad)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/arindom_ad)  
+[![Gmail Badge](https://img.shields.io/badge/-arindamdas.ad214@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:arindamdas.ad214@gmail.com)  
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyC6GhNNFxiTkFu0gsmGzng?style=social)
 
-### Good to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nixonok.nixonok&style=flat-square&color=0088cc)
+---
 
-I'm a software engineer and self-taught game dev ❤️. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Mobile Game Development 🕸️ and working on Backend knowledge 🤓.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arindom-p&layout=compact)](https://github.com/arindom-p)
 
-<img align="right" height="220" width="220" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/chess.gif" />
+[Main Resume](https://docs.google.com/document/d/1z8ht3ihb4DJhkGBYw8CVdKabPEEkdoCEaMNZihqXy9E)
+<details open>
+  <summary><b>Profiles</b></summary>
 
-### About Me:
+  * [Portfolio](https://arindom.netlify.app)
+  * [Google Play Sore](https://play.google.com/store/apps/dev?id=7861588632677250935)
+  * <details open>
+    <summary>Problem solving</summary>
 
-- 🔬 I'm currently working at [Ulka Games Limited](https://ulka.games) - Part of [Moonfrog Labs](https://moonfroglabs.com).
-- 💻 I love writing code and learn new things about it.
-- 📚 I’m currently learning game server/backend stuff.
-- 💬 Ask me anything about from [Here](https://github.com/nixonok/nixonok/issues).
-- 📫 How to reach me: <a href="mailto: nixonokk@gmail.com">nixonokk@gmail.com</a>
+    * [ICPC](https://icpc.global/ICPCID/ETBWJC90WPLY)
+    * [Leetcode](https://leetcode.com/arindom)
+    * [Codeforces](https://codeforces.com/profile/33009_ad)
+    * [UVa](https://uhunt.onlinejudge.org/id/947640)
+    * [Toph](https://toph.co/u/arindom.ad)
+    * [VJudge](https://vjudge.net/user/33009)
+    * [Codechef](https://www.codechef.com/users/arindom33009)
+    * [SPOJ](https://www.spoj.com/users/arindom)
+    * [AtCoder](https://leetcode.com/arindom)
+    * [HackerRank](https://www.hackerrank.com/33009_ad)
+    </details>
 
-### Languages and Tools:
+  * <details open>
+    <summary>Marketplace</summary>
 
-<code><img title="C#" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/cSharp.svg"></code>
-<code><img title="Unity" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/unity3d.svg"></code>
-<code><img title="Android" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/android.svg"></code>
-<code><img title="Java" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/java-original.svg"></code>
-<code><img title="GitHub" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/github.svg"></code>
-<code><img title="MySQL" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/mysql.svg"></code>
-<code><img title="JSON" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/json.svg"></code>
-<code><img title="Git" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/git-original.svg"></code>
-<code><img title="Problem Solving" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/problemSolving.png"></code>
-</br></br>
-<code><img title="HTML5" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/html5.svg"></code>
-<code><img title="JavaScript" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/javascript.svg"></code>
-<code><img title="TypeScript" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/python-original.svg"></code>
-<code><img title="NodeJS" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/css.svg"></code>
-<code><img title="C" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/c.svg"></code>
-<code><img title="C++" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/cpp.svg"></code>
-<code><img title=".NetCore" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/dotnetcore.svg"></code>
-<code><img title="AWS" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/jquery-original.svg"></code>
+    * [Upwork](https://www.upwork.com/freelancers/~0159d4c35e5e959597)
+    * [Freelancer](https://www.freelancer.com/u/arindom214)
+    </details>
+</details>
 
-<img align="right" height="220" width="220" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/mac.gif" />
-
-### How I Work?:
-
-- OS : macOS BigSur
-- Machine : Macbook Pro 16 inch (M1 Max)
-- Browser : Chrome
-- Code Editor : JetBrains Rider
-- Game Engine : Unity3D
-- Server Stack : AWS, NodeJS, TypeScript
-
-### Listening To Now:
-
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31g7fqbykkpbylfgoewkj4zabs7a)
