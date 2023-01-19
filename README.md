@@ -1,4 +1,4 @@
-## Hello, I'm [Arindom Das!](https://github.com/nixonok/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello, I'm [Arindom Das!](https://arindom.netlify.app) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&vCenter=true&height=30&lines=Software+Engineer;Game+Developer)](https://git.io/typing-svg)
 ### Good to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=arindomdas.ad&style=flat-square&color=0088cc)
