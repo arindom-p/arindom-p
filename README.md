@@ -31,7 +31,7 @@
     * [VJudge](https://vjudge.net/user/33009)
     * [Codechef](https://www.codechef.com/users/arindom33009)
     * [SPOJ](https://www.spoj.com/users/arindom)
-    * [AtCoder](https://leetcode.com/arindom)
+    * [AtCoder](https://atcoder.jp/users/Arindam33009)
     * [HackerRank](https://www.hackerrank.com/33009_ad)
     </details>
 
